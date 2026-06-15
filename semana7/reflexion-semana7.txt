@@ -1,0 +1,18 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar
+reportes o incidencias en una plataforma tecnológica?
+
+Es importante porque permite que los ciudadanos tengan una forma organizada
+y eficiente de comunicar problemas que afectan su entorno, como daños en
+infraestructura, problemas ambientales o situaciones de riesgo. Al usar una
+plataforma tecnológica, cada reporte queda registrado con un identificador
+único, lo que facilita su seguimiento y evita que se pierda información.
+
+Además, permite que las autoridades o responsables puedan consultar todas
+las incidencias en tiempo real, priorizar las más urgentes y dar respuesta
+más rápida a la comunidad. Esto genera transparencia y confianza entre los
+ciudadanos y las instituciones.
+
+Desde el punto de vista técnico, aprendí que una API con métodos GET y POST
+es suficiente para construir un sistema funcional de reportes, lo cual
+demuestra que la tecnología puede ser una herramienta poderosa para resolver
+problemas reales de manera sencilla y accesible.

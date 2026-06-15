@@ -1,0 +1,18 @@
+Cuando se consulta GET /reportes, el servidor responde con una lista 
+de todos los reportes almacenados en formato JSON.
+
+Ejemplo de respuesta esperada:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+
+Explicación:
+- El servidor recibe la petición GET.
+- Busca todos los reportes guardados.
+- Los devuelve en un array JSON con status 200 OK.
+- Cada reporte tiene un id, tipo y descripcion.
